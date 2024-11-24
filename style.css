@@ -60,7 +60,8 @@ header span{
     
 }
 span{
-    font-weight: bolder;
+    font-weight: bolder; 
+    font-size: x-large;
 }
 footer{
     margin: -22px;
